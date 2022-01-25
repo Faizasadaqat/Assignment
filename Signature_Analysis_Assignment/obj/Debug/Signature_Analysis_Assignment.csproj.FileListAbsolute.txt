@@ -1,0 +1,8 @@
+C:\Users\Vigne\source\repos\Signature_Analysis_Assignment\Signature_Analysis_Assignment\bin\Debug\Signature_Analysis_Assignment.exe.config
+C:\Users\Vigne\source\repos\Signature_Analysis_Assignment\Signature_Analysis_Assignment\bin\Debug\Signature_Analysis_Assignment.exe
+C:\Users\Vigne\source\repos\Signature_Analysis_Assignment\Signature_Analysis_Assignment\bin\Debug\Signature_Analysis_Assignment.pdb
+C:\Users\Vigne\source\repos\Signature_Analysis_Assignment\Signature_Analysis_Assignment\obj\Debug\Signature_Analysis_Assignment.csproj.AssemblyReference.cache
+C:\Users\Vigne\source\repos\Signature_Analysis_Assignment\Signature_Analysis_Assignment\obj\Debug\Signature_Analysis_Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vigne\source\repos\Signature_Analysis_Assignment\Signature_Analysis_Assignment\obj\Debug\Signature_Analysis_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Vigne\source\repos\Signature_Analysis_Assignment\Signature_Analysis_Assignment\obj\Debug\Signature_Analysis_Assignment.exe
+C:\Users\Vigne\source\repos\Signature_Analysis_Assignment\Signature_Analysis_Assignment\obj\Debug\Signature_Analysis_Assignment.pdb
